@@ -1,0 +1,108 @@
+body {
+    font-size: 15px;
+    line-height: 1.5;
+    padding: 0;
+    margin: 0;
+    background-color: #efefef
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    position: relative;
+    margin-left: 21%;
+    
+}
+
+.container1 {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+header {
+    background-color: #b300b3;
+    color: #ffffff;
+    padding-top: 25px;
+    min-height: 70px;
+    border-bottom: #1a001a 3px solid;
+}
+
+header a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+header ul{
+    padding: 5px;
+    margin: 0;
+    width: 100%;
+}
+
+header ul li {
+    display: inline;
+    float: left;
+    width: 16.6%;
+    clear: right;
+}
+
+#branding h1,
+#branding p {
+    float: left;
+    display: inline-block;
+    vertical-align: bottom;
+    clear: both;
+}
+
+#branding p {
+    float: none;
+    position: absolute;
+    left: 30%;
+    right: 30%;
+    display: inline-block;
+    text-align: center;
+    font-size: 20px;
+}
+
+nav {
+    clear: both;
+}
+
+#trailer {
+    padding-left: 33%;
+    padding-right: 33%
+}
+
+#content
+{
+    clear: both;
+    position: relative;
+}
+
+#welcome {
+    text-align: center
+}
+
+#homecontent {
+    text-indent: 10%
+}
+#forums {
+    text-align: center
+}
+
+#forums a {
+    text-decoration: none
+}
+
+#goodluck {
+    font-size: 28px;
+    text-decoration: underline;
+    text-align: center
+}
+
+footer {
+    text-align: center;
+    color: darkgrey
+}
